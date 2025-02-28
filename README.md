@@ -21,9 +21,9 @@ Este projeto foi desenvolvido com uso das seguintes tecnologias:
 
     - [✔]  fazer alterações nos aspectos da aparência de todo o site
 
-    - []  Use as pseudoclasses CSS para destacar quando um usuário aponta para um objeto em uma página da web com o mouse.
+    - [✔]  Use as pseudoclasses CSS para destacar quando um usuário aponta para um objeto em uma página da web com o mouse.
 
-    - [] links em uma página estilizados como preto em um fundo branco, quando um usuário passa o mouse sobre um link, a cor e a cor de fundo desse link podem ser invertidas
+    - [✔] quando um usuário passa o mouse sobre um link, a cor e a cor de fundo desse link podem ser invertidas
 
     - []  criar formulario de cadastro
 
