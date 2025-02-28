@@ -30,9 +30,11 @@ header div{
 header div .login{
     padding: 5px;
     border-radius: 8px;
+    text-decoration: none;
+    color: #fdfdfd;
 }
 header div .login:hover{
-    background-color: #e1ffe8;
+    background-color: #555;
     color: #000;
 
 }

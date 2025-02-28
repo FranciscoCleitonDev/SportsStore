@@ -25,7 +25,7 @@ Este projeto foi desenvolvido com uso das seguintes tecnologias:
 
     - [✔] quando um usuário passa o mouse sobre um link, a cor e a cor de fundo desse link podem ser invertidas
 
-    - []  criar formulario de cadastro
+    - [✔]  criar formulario de cadastro
 
     - []  Antes de enviar dados para o servidor, é importante garantir que todos os controles de formulário necessários sejam preenchidos, no formato correto
 
@@ -49,13 +49,19 @@ Este projeto foi desenvolvido com uso das seguintes tecnologias:
 📂 SportsStore
     ├── 📂 assets
         ├── 📂 css
+            ├── 📄 form.css
+            ├── 📄 login.css
             ├── 📄 styles.css
         ├── 📂 js
-            ├── 📄 script.js
+            ├── 📄 form.js
+            ├── 📄 login.js
+            ├── 📄 script.js  
         ├── 📂 img
             ├── 📄 *.jpg
+    ├── 📄 form.html
     ├── 📄 index.html
     ├── 📄 LICENSE
+    ├── 📄 login.html
     ├── 📄 README.md
 ```
 
