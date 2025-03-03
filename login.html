@@ -8,12 +8,23 @@
     <script src="./assets/js/login.js" defer></script>
 </head>
 <body>
-    <div>
-        <h2>Login</h2>
+    <div class="conteiner">
+        <button class="tooltip"> 💡
+            <span class="tooltip-text">Qualquer dado inserido que sejam valido permitiram o login!</span>
+        </button>
+        <h2>LOGIN</h2>
+
+
         <input type="email" id="email" placeholder="E-mail" required>
+        <p class="error" id="email-error"></p>
+
         <input type="password" id="password" placeholder="Senha" required>
-        <p class="error" id="error-message"></p>
+        <p class="error" id="password-error"></p>
+
         <button onclick="login()">Entrar</button> 
+        <br>
+        <hr>
+        <a href="./form.html">cadastrar</a>
     </div>
 </body>
 </html>

@@ -17,7 +17,7 @@ Este projeto foi desenvolvido com uso das seguintes tecnologias:
 
     - [✔]  inserir CSS e js externo
 
-    - []  validação de formulários CSS com pseudoclasses
+    - [✔]  validação de formulários CSS com pseudoclasses
 
     - [✔]  fazer alterações nos aspectos da aparência de todo o site
 
@@ -27,20 +27,20 @@ Este projeto foi desenvolvido com uso das seguintes tecnologias:
 
     - [✔]  criar formulario de cadastro
 
-    - []  Antes de enviar dados para o servidor, é importante garantir que todos os controles de formulário necessários sejam preenchidos, no formato correto
+    - [✔]  Antes de enviar dados para o servidor, é importante garantir que todos os controles de formulário necessários sejam preenchidos, no formato correto
 
-    - []  validação visual dos campos do usuário sendo:
-        - [] Um campo obrigatório.
-        - [] Adicionar um texto de aviso obrigatório.
-        - [] Um campo apresentando a validação feita pelo próprio navegador, conforme o seu tipo.
-        - [] Sinalizar uma borda verde se os dados forem válidos e vermelha se não forem.
+    - [✔]  validação visual dos campos do usuário sendo:
+        - [✔] Um campo obrigatório.
+        - [✔] Adicionar um texto de aviso obrigatório.
+        - [✔] Um campo apresentando a validação feita pelo próprio navegador, conforme o seu tipo.
+        - [✔] Sinalizar uma borda verde se os dados forem válidos e vermelha se não forem.
 
 ```
 
 - melhorias extra 
 ```bash
-    - [] tornar responsivel para outros dispositivos
-    - [] ...
+    - [✔] tornar responsivel para outros dispositivos
+    - [✔] adicionar tooltip ingormativas
 ```
 
 ## 📂 Estrutura do Projeto
